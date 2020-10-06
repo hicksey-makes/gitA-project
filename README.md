@@ -1,2 +1,2 @@
-# gitA-project
-testing a remote repo
+## Sample Git Project
+testing a remote repo purpose.
